@@ -30,8 +30,11 @@ https://drive.google.com/drive/folders/1ST9vHckZWEk4bmQYSXxBfGQoHbdK4Q-y?usp=sha
 
   **Streamlit Dashboard:**
   Launch the interactive dashboard:streamlit run app.py
-  Dashboard Preview:
-  ![Screenshot 2025-05-11 140808](https://github.com/user-attachments/assets/39a6326d-a905-495a-8659-105c8b4b6a36)
+  
+**Dashboard Preview:**
+  
+  ![Health_Prediction](https://github.com/user-attachments/assets/177ff1aa-de04-4ee5-bb19-72dff068657d)
+
 
 
 
